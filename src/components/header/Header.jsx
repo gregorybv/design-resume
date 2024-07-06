@@ -57,7 +57,7 @@ const Header = () => {
                 <p className="info-item-text">
                   Website:{" "}
                   <span className="text">
-                    https://awilson456.github.io/portfolio.html
+                    https://johndoe.github.io/portfolio.html
                   </span>
                 </p>
               </li>
